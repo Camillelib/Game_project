@@ -1,2 +1,2 @@
-# Camillelib-game_project
+# Game_project
 Creating a game in Python
